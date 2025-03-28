@@ -127,7 +127,3 @@ Do NOT use real passwords for testing.
 Avoid storing sensitive passwords in plain text.
 
 Update the breach database regularly to maintain security.
-
-8. Contact & Support
-
-For issues or feature requests, contact: TechDefense Solutions Support at support@techdefense.com
